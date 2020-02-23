@@ -1,8 +1,12 @@
 {
   "name": "nest-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "a simple api that uses Nestjs and Sequelize",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicpolhamus/nestjs-api"
+  },
+  "author": "Drew Polhamus",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
